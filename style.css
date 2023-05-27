@@ -9,7 +9,7 @@
 .content {
     display: flex;
     justify-content: center;
-    background: linear-gradient(to right, rgb(9, 18, 198), rgb(148, 136, 5));
+    background: linear-gradient(to right, rgb(192, 173, 31), rgb(43, 32, 125));
     height: 100vh;
 }
 
